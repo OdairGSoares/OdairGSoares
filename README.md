@@ -21,7 +21,7 @@
   <img align="center" alt="Oda-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Oda-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
-  ![giphy](https://user-images.githubusercontent.com/86609455/170808737-9c579d38-4487-4d10-8f56-e3dc664800b1.gif)
+  <img! width="100" src=[giphy](https://user-images.githubusercontent.com/86609455/170808737-9c579d38-4487-4d10-8f56-e3dc664800b1.gif)>
 
 </div>
   
