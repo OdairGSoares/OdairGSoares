@@ -3,7 +3,7 @@
 ### Olá, meu nome é Odair Gomes Soares! 👋
 
 - 💻 Trabalhando com programação Web
-- 📝 Estudando PHP,SQL e REACT
+- 📝 Estudando PYTHON,C# e REACT
 - 💬 Quer conversar comigo? Me contate via E-mail!
 - 📫 odagomess708@gmail.com
 - ☕ Coffee + programing = application
