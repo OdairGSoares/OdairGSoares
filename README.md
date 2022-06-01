@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/odair-gomes-9baab01ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
- <br>
+ <hr>
  
  ![bongo-cat-codes](https://user-images.githubusercontent.com/86609455/171320013-d85266ed-85f3-4506-b36d-8f0416a47aeb.gif)
 
