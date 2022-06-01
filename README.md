@@ -34,3 +34,7 @@
   <a href = "mailto:odagomess708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/odair-gomes-9baab01ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+ ![bongo-cat-codes](https://user-images.githubusercontent.com/86609455/171320013-d85266ed-85f3-4506-b36d-8f0416a47aeb.gif)
+
+ 
