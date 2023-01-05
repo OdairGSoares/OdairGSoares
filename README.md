@@ -81,7 +81,7 @@
  <br/>
 
 
-## 🔥 Meus repos favoritos
+## 🔥 Meus repositórios favoritos
 
 <div align="center">
  <a href="https://github.com/K4L1B3/rememberflix">
@@ -106,27 +106,7 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/K4L1B3/parking-control-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=skilled-elearning-landing-page-project03&theme=react&hide_border=true" />
-  </a>
- <a href="https://github.com/K4L1B3/cssAnimations">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=equalize-landing-page&theme=react&hide_border=true" />
-</a>
-</div>
-
-<br/>
-<br/>
-<br/>
-     
-  <a href="https://github.com/K4L1B3"><img alt="K4L1B3 Graph" src="https://activity-graph.herokuapp.com/graph?username=K4L1B3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-     
- <br/>
- <br/>
-     
-
- ## :speech_balloon: Vamos conversar  
+ ## 💬 Vamos conversar  
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
 
