@@ -4,7 +4,8 @@
 <br/>
 <br/>
 <br/>
-
+<h1 align="center">Opa <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="4%">, Eae Dev!
+  
 <h3 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."</h3>
 
  <br/>
