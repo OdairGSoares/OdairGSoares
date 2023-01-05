@@ -63,8 +63,6 @@
    <img align="center" alt="Oda-WORDPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
  </div>
      
-  
-  <br/>
   <br/>
   <br/>
   <br/>
@@ -72,11 +70,11 @@
 ## 💼 Projetos que resolvem problemas reais
   
   <div align="center">
- <a href="https://github.com/K4L1B3/AppVendasPedidos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=AppVendasPedidos&theme=react&hide_border=true" />
+ <a href="https://github.com/OdairGSoares/Validador-de-CPF">
+  <img align="center" src="https://github.com/OdairGSoares/Validador-de-CPF" />
 </a>
-<a href="https://github.com/K4L1B3/AppVendasPedidos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=reactTS-crud-toDoList&theme=react&hide_border=true" />
+<a href="https://github.com/OdairGSoares/Sistema_de_Agendamentos">
+  <img align="center" src="https://github.com/OdairGSoares/Sistema_de_Agendamentos" />
 </a>
   </div>
   
