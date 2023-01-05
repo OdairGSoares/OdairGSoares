@@ -22,7 +22,7 @@
 
 💬 Gosto bastante de empreendedorismo, day trading, tecnologia, programação e desenvolvimento.
 
-📫 Pode falar comigo atráves do meu email pessoal: odagomess708@gmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
+📫 Pode falar comigo atráves do meu email pessoal: odagomess708@gmail.com ou pelo proprio linkedin, o link deve estar logo abaixo.
 
 👌 int x=10; int y=10; return x+y; // Qual o nome do filme? O Código dá Vinte
   
