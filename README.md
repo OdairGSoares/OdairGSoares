@@ -4,17 +4,17 @@
 <br/>
 <br/>
 <br/>
+
 <h1 align="center">Olá, seja bem vindo ao meu GitHub!
-<h3 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."</h3>
-<h1 align="center"><img src="https://media.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="10%"> 
-
   
-
+<h3 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."</h3>
+  
+<h1 align="center"><img src="https://media.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="10%"> 
 
  <br/>
  <br/>
  
-## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:20px;" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 
 🔭 Atualmente estou procurando novas oportunidades de trabalho. 
