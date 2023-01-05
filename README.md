@@ -6,8 +6,8 @@
 <br/>
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, Eae Dev!
-<h3 align="center">"hard work beats talent when talent doesn't work hard"</h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%"> Eae Dev!
+<h3 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."</h3>
 
 
 
