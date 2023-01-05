@@ -1,4 +1,4 @@
-<img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" width="80%">
+<img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" width="100%">
 
 <br/>
 <br/>
