@@ -84,23 +84,23 @@
 ## 🔥 Meus repositórios favoritos
 
 <div align="center">
- <a href="https://github.com/K4L1B3/rememberflix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=remeberflix&theme=react&hide_border=true" />
+ <a href="https://github.com/OdairGSoares/Pokedex-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OdairGSoares&repo=Pokedex-API&theme=react&hide_border=true" />
 </a>
   
-<a href="https://github.com/K4L1B3/helicopterGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=helicopterGame&theme=react&hide_border=true" />
+<a href="https://github.com/OdairGSoares/Flappy_Bird_AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OdairGSoares&repo=Flappy_Bird_AI&theme=react&hide_border=true" />
 </a>
 </div>
      
 <br/>
 
 <div align="center">
-  <a href="https://github.com/K4L1B3/parking-control-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=parking-control-api&theme=react&hide_border=true" />
+  <a href="https://github.com/OdairGSoares/Projeto-Millenium">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OdairGSoares&repo=Projeto-Millenium&theme=react&hide_border=true" />
   </a>
- <a href="https://github.com/K4L1B3/cssAnimations">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K4L1B3&repo=cssAnimations&theme=react&hide_border=true" />
+ <a href="https://github.com/OdairGSoares/Node-Fetch-Cielo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OdairGSoares&repo=Node-Fetch-Cielo&theme=react&hide_border=true" />
 </a>
 </div>
 
