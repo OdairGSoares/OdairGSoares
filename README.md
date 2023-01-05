@@ -5,10 +5,11 @@
 <br/>
 <br/>
 <h1 align="center">Olá, seja bem vindo ao meu GitHub!
+<h3 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."</h3>
 <h1 align="center"><img src="https://media.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="10%"> 
 
   
-<h3 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."</h3>
+
 
  <br/>
  <br/>
