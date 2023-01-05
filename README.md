@@ -32,7 +32,7 @@
   ## 📈 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/K4L1B3">
+  <a href="https://github.com/OdairGSoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4L1B3&layout=compact&langs_count=7&theme=react&hide_border=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4L1B3&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -40,7 +40,7 @@
   
  
 <p align="center">
-    <a href="https://github.com/K4L1B3">
+    <a href="https://github.com/OdairGSoares">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Luiz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=K4L1B3&theme=react&hide_border=true"/>
     </a>
 </p>
