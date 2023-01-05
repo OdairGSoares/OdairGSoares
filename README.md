@@ -70,16 +70,13 @@
 ## 💼 Projetos que resolvem problemas reais
   
   <div align="center">
- <a href="https://github.com/OdairGSoares/Validador-de-CPF">
-  <img align="center" src="https://github.com/OdairGSoares/Validador-de-CPF" />
+ <a href="https://github.com/OdairGSoares/Sistema_de_Agendamentos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OdairGSoares&repo=Sistema_de_Agendamentos&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/OdairGSoares/Sistema_de_Agendamentos">
-  <img align="center" src="https://github.com/OdairGSoares/Sistema_de_Agendamentos" />
+<a href="https://github.com/OdairGSoares/Validador-de-CPF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OdairGSoares&repo=Validador-de-CPF&theme=react&hide_border=true" />
 </a>
   </div>
-  
-  
-
  <br/>
  <br/>
 
