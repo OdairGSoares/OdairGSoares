@@ -10,7 +10,7 @@
  <br/>
  <br/>
  
-## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://user-images.githubusercontent.com/45051690/170294502-c0a60beb-5e86-4252-9f21-26ecb42e911a.jpg](https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif)">
+## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 
 🔭 Atualmente estou procurando novas oportunidades de trabalho. 
