@@ -18,17 +18,13 @@
 
 🌱 Estou sempre aprendendo novas tecnologias como Swift e ReactJS.
 
-👯 Adoro trabalhar com pessoas responsáveis e.
+👯 Adoro trabalhar com pessoas responsáveis e que não tem medo de ousar.
 
-🤔 Procuro ajuda para realizar alguns dos meus projetos maiores, como o Kaflux (Software financeiro para negócios locais).
+💬 Gosto bastante de empreendedorismo, day trading, tecnologia, programação e desenvolvimento.
 
-💬 Converso sobre qualquer coisa, entretanto oque me chama atenção mesmo é falar sobre empreendedorismo, ficção ciêntifica, Técnologia, biologia e o universo em geral.
+📫 Pode falar comigo atráves do meu email pessoal: odagomess708@gmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
 
-📫 Pode falar comigo atráves do meu email pessoal: luizhlimagomes28@gmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
-
-😄 Pronouns: Meu nome é Luiz, mas o pessoal costuma me chamar de KaliBE, então o apelido meio que pegou. kakakakaka
-
-⚡ Fun fact: Seu código não vai dar erro, se você coloca-lo dentro de um bloco try-catch 🤔
+👌 int x=10; int y=10; return x+y; // Qual o nome do filme? O Código dá Vinte
   
   <br/>
   <br/>
