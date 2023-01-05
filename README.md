@@ -5,26 +5,17 @@
 <br/>
 <br/>
 
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%"> Eae Dev!
 <h3 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."</h3>
 
+ <br/>
+ <br/>
+ 
+## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://user-images.githubusercontent.com/45051690/170294502-c0a60beb-5e86-4252-9f21-26ecb42e911a.jpg](https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif)">
 
 
-  <br/>
-  <br/>
+🔭 Atualmente estou procurando novas oportunidades de trabalho. 
 
-
-
-
-
-  
-## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/45051690/170294502-c0a60beb-5e86-4252-9f21-26ecb42e911a.jpg">
-
-
-🔭 Eu atualmente estou procurando novas oportunidades de trabalho. 
-
-🌱 Eu atualmente estou aprendendo novas tecnologias como Spring, ReactJS.
+🌱 Atualmente estou aprendendo novas tecnologias como Swift e ReactJS.
 
 👯 Fico extremamente grato em coloborar com pessoas que sabem valorizar um trabalho em equipe e pensam fora da curva ou não tem medo de ousar.
 
