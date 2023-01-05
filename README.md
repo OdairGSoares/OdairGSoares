@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <br/>
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8%"> Oi!
+<h1 align="center"><img src="https://media.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="8%">, Oi, meu nom!
   
 <h3 align="center">"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do."</h3>
 
