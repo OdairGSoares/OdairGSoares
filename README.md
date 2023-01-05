@@ -41,7 +41,7 @@
  
 <p align="center">
     <a href="https://github.com/OdairGSoares">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Luiz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=K4L1B3&theme=react&hide_border=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Odair streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OdairGSoares&theme=react&hide_border=true"/>
     </a>
 </p>
 
