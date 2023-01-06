@@ -120,7 +120,7 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
   <br/>
   
   ![Snake animation](https://github.com/OdairGSoares/OdairGSoares/blob/output/github-contribution-grid-snake.svg)
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 </div>
 
 
