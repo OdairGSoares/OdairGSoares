@@ -14,15 +14,15 @@
  
 ## 📙 Sobre mim   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
   
-🔭 Atualmente estou procurando novas oportunidades de trabalho. 
+🔭 Procurando novas oportunidades de trabalho. 
 
-🌱 Estou sempre aprendendo novas tecnologias como Swift e ReactJS.
+🌱 Estou sempre aprendendo novas tecnologias.
 
 👯 Adoro trabalhar com pessoas responsáveis e que não tem medo de ousar.
 
-💬 Gosto bastante de empreendedorismo, day trading, tecnologia, programação e desenvolvimento.
+💬 Gosto bastante de empreendedorismo, tecnologia, programação e desenvolvimento.
 
-📫 Pode falar comigo atráves do meu email pessoal: odagomess708@gmail.com ou pelo proprio linkedin, o link deve estar logo abaixo.
+📫 Pode falar comigo atráves do meu email pessoal: odagomess708@gmail.com.
 
 👌 int x=10; int y=10; return x+y; // Qual o nome do filme? O Código dá Vinte
   
